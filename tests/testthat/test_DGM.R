@@ -1,4 +1,4 @@
-library(lab10)
+library(IRTDGM)
 
 test_that("generate_IRTdata output structure", {
   data <- generate_IRTdata(10)

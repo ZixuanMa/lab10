@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(lab10)
+library(IRTDGM)
 
-test_check("lab10")
+test_check("IRTDGM")
